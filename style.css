@@ -1,0 +1,50 @@
+* {
+    margin: 4;
+    padding: 9;
+}
+
+body {
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: rgba(38, 100, 98, 0.205);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+div {
+    float: left;
+
+}
+
+p {
+    text-align: justify;
+
+}
+
+.apresentacao_links_link {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+h1 {
+    background-color: aliceblue;
+
+
+}
+
+.apresentacao_links_link {
+    background-color: rgb(42, 73, 73);
+    width: 180px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 300;
+    padding: 21.5px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
